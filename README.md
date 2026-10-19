@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
     </td>
     <td align="center" width="50%">
-      <h3>🐳 DevOps &amp; serves</h3>
+      <h3>🐳 DevOps &amp; servers</h3>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
     </td>
